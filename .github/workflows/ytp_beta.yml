@@ -10,7 +10,7 @@ on:
         default: false
 
       enable_ytuhd:
-        description: "Integrate YTUHD"
+        description: "Integrate YTUHD (its settings have 'Fix playback issues' and 'Auto reload stuck videos' against buffering)"
         type: boolean
         required: true
         default: false
